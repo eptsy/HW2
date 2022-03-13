@@ -1,0 +1,73 @@
+.about {
+    text-align: center;
+    color: tomato;
+    font-family: bayon;
+    font-size: xx-large;
+}
+.abt-me {
+    color: tomato;
+    font-family: syne mono;
+}
+.resume {
+    background-color: tomato;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 15%;
+}
+.table {
+    color: tomato;
+    font-size: 20px;
+    font-family: syne mono;
+}
+.table2 {
+    color: tomato;
+}
+.form {
+    color: tomato;
+    font-family: -apple-system;
+}
+input[type=text], select, textarea {
+    width: 300px; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+input[type=email] {
+    width: 300px; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+input[type=submit] {
+    background-color: tomato;
+    text-size-adjust: 40px;
+    color: white;
+    padding: 15px 70px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+.footer {
+    color: tomato;
+    text-decoration: none;
+    font-family: gamja flower;
+    font-size: larger;
+
+}
+a:link {
+    color: tomato;
+}
